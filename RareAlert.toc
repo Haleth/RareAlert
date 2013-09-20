@@ -2,6 +2,6 @@
 ## Title: RareAlert
 ## Notes: Shows a raid warning and plays a sound when a rare creature is spotted.
 ## Author: Haleth/Freethinker
-## Version: 1.2
+## Version: 1.2.1
 
 core.lua
