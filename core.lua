@@ -1,4 +1,4 @@
-﻿local f = CreateFrame("Frame")
+local f = CreateFrame("Frame")
 f:RegisterEvent("VIGNETTE_ADDED")
 f:SetScript("OnEvent", function()
 	PlaySoundFile("Sound\\Interface\\RaidWarning.wav")
